@@ -6,6 +6,6 @@
 💬 Ask me about: Embedded Systems, ESP32, CNNs  
 📫 Reach me:joshuaon97@gmail.com
 ## 🚀 Projects
-- 🗑️ [Smart Dustbin]
+- 🗑️ [Smart Dustbin] https://github.com/joshuuaaa/smart-waste-segregation
   ## 🧠 Currently Exploring
 `React` • `Flask` • `TensorFlow` • `MongoDB`  
